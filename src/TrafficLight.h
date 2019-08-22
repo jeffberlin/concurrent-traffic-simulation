@@ -38,7 +38,7 @@ enum TrafficLightPhase {
     green
 };
 
-class TrafficLight
+class TrafficLight : TrafficObject
 {
 public:
     // constructor / desctructor

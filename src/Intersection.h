@@ -5,6 +5,7 @@
 #include <future>
 #include <mutex>
 #include <memory>
+#include "TrafficLight.h"
 #include "TrafficObject.h"
 
 // forward declarations to avoid include cycle
